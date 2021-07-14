@@ -1,1 +1,1 @@
-# Friend-Website
+# Website for STKAMI
